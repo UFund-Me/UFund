@@ -40,7 +40,6 @@
 
 <div align="center">
     <img src="./img/comming_soon.png" width="200px">
-   <br> A demo of UFund
 </div>
 <br>
 
@@ -48,6 +47,7 @@
 
 <div align="center">
     <img src="https://gitee.com/rabt/Picture/raw/master/img/edit.png">
+    <br> <i>A demo of UFund</i>
 </div>
 <br>
 
