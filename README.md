@@ -40,6 +40,7 @@
 
 <div align="center">
     <img src="./img/comming_soon.png" width="200px">
+   <br> A demo of UFund
 </div>
 <br>
 
