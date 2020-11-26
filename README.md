@@ -23,10 +23,10 @@
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
   </a>
-  <a href="https://github.com/Charmve/Alipay-Fund-Assistant">
+  <a href="https://github.com/UFund-Me/UFund">
 	<img alt="Alipay Fund Assistant" src="https://img.shields.io/badge/Fund--Assistant-支付宝Alipay-blue.svg">
   </a>
-  <a href="https://github.com/pybluez/pybluez/actions?query=workflow%3ABuild">
+  <a href="https://github.com/UFund-Me/UFund">
     <img alt="Build Status" src="https://github.com/pybluez/pybluez/workflows/Build/badge.svg">
   </a>
 </p>
