@@ -159,7 +159,7 @@ gantt
         计划一               :         des3, after des2, 5d
         计划二               :         des4, after des3, 5d
 ```
-- 关于 **甘特图** 语法，参考 [这儿][2].
+- 关于 **UFund** 详细更新进度，请查阅 [这儿](./docs/change-log.md).
 
 <br>
 
@@ -173,7 +173,7 @@ gantt
 
 [4] https://github.com/avinashbarnwal/Momentum-Strategy
 
-[5] ![Quantitative Momentum](https://www.amazon.com/Quantitative-Momentum-Practitioners-Momentum-Based-Selection/dp/111923719X/ref=sr_1_1?ie=UTF8&qid=1478201274&sr=8-1&keywords=quantitative+momentum): A Practitioner's Guide to Building a Momentum-Based Stock Selection System (Wiley Finance) Hardcover – Illustrated, October 3, 2016
+[5] [Quantitative Momentum](https://www.amazon.com/Quantitative-Momentum-Practitioners-Momentum-Based-Selection/dp/111923719X/ref=sr_1_1?ie=UTF8&qid=1478201274&sr=8-1&keywords=quantitative+momentum): A Practitioner's Guide to Building a Momentum-Based Stock Selection System (Wiley Finance) Hardcover – Illustrated, October 3, 2016
 
 <!--
 
