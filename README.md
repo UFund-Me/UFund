@@ -73,7 +73,7 @@ Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/iss
 
 <a href="https://UFund-Me.github.io/doc/privacy.html" target="_blank">隐私协议</a>
 
-# Sponsor
+## 💖 Sponsor
 <table>
 <tr>
 	<td>
@@ -147,7 +147,7 @@ Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/iss
 </a>
 <br><br>
 
-## Processing
+## ☕ Processing
 
 ```mermaid
 gantt
