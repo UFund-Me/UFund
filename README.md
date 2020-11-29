@@ -145,6 +145,14 @@ Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/iss
 <a href="https://github.com/5renyuebing">
     <img src="https://avatars1.githubusercontent.com/u/32872430?s=400&v=4" width="50px">
 </a>
+<br>
+
+## 💼 Reference
+https://github.com/microsoft/qlib
+
+https://github.com/iewoai/Quantitative-Investment_Learning
+
+https://github.com/xhlgogo/Quantitative-Investment-Trading-system
 
 <!--
 
