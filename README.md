@@ -145,14 +145,35 @@ Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/iss
 <a href="https://github.com/5renyuebing">
     <img src="https://avatars1.githubusercontent.com/u/32872430?s=400&v=4" width="50px">
 </a>
+<br><br>
+
+## Processing
+
+```mermaid
+gantt
+        dateFormat  YYYY-MM-DD
+        title Adding GANTT diagram functionality to mermaid
+        section 现有任务
+        已完成               :done,    des1, 2014-01-06,2014-01-08
+        进行中               :active,  des2, 2014-01-09, 3d
+        计划一               :         des3, after des2, 5d
+        计划二               :         des4, after des3, 5d
+```
+- 关于 **甘特图** 语法，参考 [这儿][2].
+
 <br>
 
 ## 💼 Reference
-https://github.com/microsoft/qlib
 
-https://github.com/iewoai/Quantitative-Investment_Learning
+[1] https://github.com/microsoft/qlib
 
-https://github.com/xhlgogo/Quantitative-Investment-Trading-system
+[2] https://github.com/iewoai/Quantitative-Investment_Learning
+
+[3] https://github.com/xhlgogo/Quantitative-Investment-Trading-system
+
+[4] https://github.com/avinashbarnwal/Momentum-Strategy
+
+[5] ![Quantitative Momentum](https://www.amazon.com/Quantitative-Momentum-Practitioners-Momentum-Based-Selection/dp/111923719X/ref=sr_1_1?ie=UTF8&qid=1478201274&sr=8-1&keywords=quantitative+momentum): A Practitioner's Guide to Building a Momentum-Based Stock Selection System (Wiley Finance) Hardcover – Illustrated, October 3, 2016
 
 <!--
 
