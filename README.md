@@ -1,5 +1,5 @@
 <p align="right">
-<a href="https://ufund-me.github.io" target="_blank">Home Page</a> | English | <a href="404.html" target="_blank">中文</a>
+<a href="https://ufund-me.github.io" target="_blank">Home Page</a> | English | <a href="https://UFund-Me.github.io/404.html" target="_blank">中文</a>
 </p>
 
 <img src="./img/UFund-font.png" align="right" alt="" width="180"/>
