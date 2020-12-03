@@ -151,7 +151,7 @@ Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/iss
 <br><br>
 
 ## ☕ Processing
-```
+
 ```mermaid
 gantt
         dateFormat  YYYY-MM-DD
