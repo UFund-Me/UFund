@@ -31,11 +31,11 @@
   </a>
 </p>
 
-# Why UFund ?
+## Why UFund ?
 
 跨平台，实时，基金份额真实模拟，涨跌提醒，加减仓AI辅助决策
 
-# ✨ Features
+## ✨ Features
 
 - 首先点击编辑按钮，在“添加新基金”输入框中输入基金代码（支持按拼音、汉字、编码模糊搜索，支持批量添加）添加需要关注的基金，基金列表支持拖拽排序，顶部的大盘指数信息也支持自定义。
 
@@ -43,11 +43,11 @@
 
 - 更多功能可以通过设置按钮进入设置页面，可以开启角标提醒功能，调整展示内容；可以开启显示估值收益，显示持有收益，开启后可以在编辑按钮中填入持有份额与成本价，插件会自动计算对应的收益情况。
 
-# 🛡 Status: Beta
+## 🛡 Status: Beta
 
 This project is still under heavy development. Feel free to join us and make your first <a href="https://github.com/UFund-Me/UFund-Me.github.io/pulls" target="_blank">pull request</a> or any <a href="https://github.com/UFund-Me/UFund/issues" target="_blank">issues</a>.
 
-# 🔨 Usage
+## 🔨 Usage
 
 ```jsx
 import { Button, DatePicker } from 'antd';
@@ -66,7 +66,7 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 ### TypeScript
 ``antd`` is written in TypeScript with complete definitions, check Use in TypeScript to getting started.
 
-# 📦 Contents
+## 📦 Contents
 
 - [Summary](#summary)
 - [Install](#curriculum)
@@ -87,11 +87,11 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 </div>
 <br>
 
-### 🍮 Community
+## 🍮 Community
 
 Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/issues/1#issue-751252906" target="_blank"> COMMUNITY </a>.
 
-### 📚 Code of conduct
+## 📚 Code of conduct
 
 <a href="https://UFund-Me.github.io/doc/privacy.html" target="_blank">隐私协议</a>
 <br>
@@ -153,7 +153,7 @@ gantt
 </table>
 <br>
 
-## 💼 Reference
+## 🔗 Reference
 
 [1] https://github.com/microsoft/qlib
 
