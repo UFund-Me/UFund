@@ -112,46 +112,10 @@ Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/iss
 </table>
 <br>
 
-[![](https://opencollective.com/ant-design/tiers/sponsors.svg?avatarHeight=36)](https://opencollective.com/ant-design#support)
+[![](https://opencollective.com/ant-design/tiers/sponsors.svg?avatarHeight=36)](https://ufund-me.github.io/img/WeChat-sponsor.png)
 
-[![](https://opencollective.com/ant-design/tiers/backers.svg?avatarHeight=36)](https://opencollective.com/ant-design#support)
+[![](https://opencollective.com/ant-design/tiers/backers.svg?avatarHeight=36)](https://ufund-me.github.io/img/WeChat-sponsor.png)
 
-<a href="https://github.com/linw7">
-    <img src="https://avatars3.githubusercontent.com/u/21679154?s=400&v=4" width="50px">
-</a> 
-<a href="https://github.com/g10guang">
-    <img src="https://avatars1.githubusercontent.com/u/18458140?s=400&v=4" width="50px">
-</a>
-<a href="https://github.com/Sctwang">
-    <img src="https://avatars3.githubusercontent.com/u/33345444?s=400&v=4" width="50px">
-</a> 
-<a href="https://github.com/ResolveWang">
-    <img src="https://avatars1.githubusercontent.com/u/8018776?s=400&v=4" width="50px">
-</a>
-<a href="https://github.com/crossoverJie">
-    <img src="https://avatars1.githubusercontent.com/u/15684156?s=400&v=4" width="50px">
-</a> 
-<a href="https://github.com/jy03078584">
-    <img src="https://avatars2.githubusercontent.com/u/7719370?s=400&v=4" width="50px">
-</a>
-<a href="https://github.com/kwongtailau">
-    <img src="https://avatars0.githubusercontent.com/u/22954582?s=400&v=4" width="50px">
-</a>
-<a href="https://github.com/xiangflight">
-    <img src="https://avatars2.githubusercontent.com/u/10072416?s=400&v=4" width="50px">
-</a>
-<a href="https://github.com/mafulong">
-    <img src="https://avatars1.githubusercontent.com/u/24795000?s=400&v=4" width="50px">
-</a>
-<a href="https://github.com/yanglbme">
-    <img src="https://avatars1.githubusercontent.com/u/21008209?s=400&v=4" width="50px">
-</a>
-<a href="https://github.com/OOCZC">
-    <img src="https://avatars1.githubusercontent.com/u/11623828?s=400&v=4" width="50px">
-</a>
-<a href="https://github.com/5renyuebing">
-    <img src="https://avatars1.githubusercontent.com/u/32872430?s=400&v=4" width="50px">
-</a>
 <br><br>
 
 ## ☕ Processing
