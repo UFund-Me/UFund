@@ -49,7 +49,7 @@ This project is still under heavy development. Feel free to join us and make you
 
 # 🔨 Usage
 
-```
+```jsx
 import { Button, DatePicker } from 'antd';
 
 const App = () => (
@@ -60,7 +60,7 @@ const App = () => (
 );
 ```
 And import style manually:
-```
+```jsx
 import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 ```
 ### TypeScript
