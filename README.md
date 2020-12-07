@@ -77,6 +77,23 @@ Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/iss
 <a href="https://UFund-Me.github.io/doc/privacy.html" target="_blank">隐私协议</a>
 <br>
 
+## ☕ Processing
+
+```mermaid
+gantt
+        dateFormat  YYYY-MM-DD
+        title Adding GANTT diagram functionality to mermaid
+        section 现有任务
+        已完成               :done,    des1, 2014-01-06,2014-01-08
+        进行中               :active,  des2, 2014-01-09, 3d
+        计划一               :         des3, after des2, 5d
+        计划二               :         des4, after des3, 5d
+```
+
+- 关于 **UFund** 详细更新进度，请查阅 [这儿](./docs/change-log.md).
+
+<br>
+
 ## 💖 Sponsors and Backers
 
 [![](https://opencollective.com/ant-design/tiers/sponsors.svg?avatarHeight=36)](https://ufund-me.github.io/img/WeChat-sponsor.png)
@@ -116,23 +133,6 @@ Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/iss
 	</td>
 </tr>
 </table>
-
-## ☕ Processing
-
-```mermaid
-gantt
-        dateFormat  YYYY-MM-DD
-        title Adding GANTT diagram functionality to mermaid
-        section 现有任务
-        已完成               :done,    des1, 2014-01-06,2014-01-08
-        进行中               :active,  des2, 2014-01-09, 3d
-        计划一               :         des3, after des2, 5d
-        计划二               :         des4, after des3, 5d
-```
-
-- 关于 **UFund** 详细更新进度，请查阅 [这儿](./docs/change-log.md).
-
-<br>
 
 ## 💼 Reference
 
