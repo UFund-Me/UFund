@@ -77,6 +77,11 @@ Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/iss
 <a href="https://UFund-Me.github.io/doc/privacy.html" target="_blank">隐私协议</a>
 
 ## 💖 Sponsors and Backers
+
+[![](https://opencollective.com/ant-design/tiers/sponsors.svg?avatarHeight=36)](https://ufund-me.github.io/img/WeChat-sponsor.png)
+
+[![](https://opencollective.com/ant-design/tiers/backers.svg?avatarHeight=36)](https://ufund-me.github.io/img/WeChat-sponsor.png)
+
 <table>
 <tr>
 	<td>
@@ -111,12 +116,6 @@ Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/iss
 </tr>
 </table>
 <br>
-
-[![](https://opencollective.com/ant-design/tiers/sponsors.svg?avatarHeight=36)](https://ufund-me.github.io/img/WeChat-sponsor.png)
-
-[![](https://opencollective.com/ant-design/tiers/backers.svg?avatarHeight=36)](https://ufund-me.github.io/img/WeChat-sponsor.png)
-
-<br><br>
 
 ## ☕ Processing
 
