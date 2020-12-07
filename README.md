@@ -76,7 +76,7 @@ Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/iss
 
 <a href="https://UFund-Me.github.io/doc/privacy.html" target="_blank">隐私协议</a>
 
-## 💖 Sponsor
+## 💖 Sponsors and Backers
 <table>
 <tr>
 	<td>
@@ -111,6 +111,10 @@ Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/iss
 </tr>
 </table>
 <br>
+
+[![](https://opencollective.com/ant-design/tiers/sponsors.svg?avatarHeight=36)](https://opencollective.com/ant-design#support)
+
+[![](https://opencollective.com/ant-design/tiers/backers.svg?avatarHeight=36)](https://opencollective.com/ant-design#support)
 
 <a href="https://github.com/linw7">
     <img src="https://avatars3.githubusercontent.com/u/21679154?s=400&v=4" width="50px">
