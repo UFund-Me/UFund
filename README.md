@@ -155,7 +155,7 @@ gantt
 
 ## 🔗 Reference
 
-[1] https://github.com/microsoft/qlib
+[1] 2020 Qlib. https://github.com/microsoft/qlib
 
 [2] https://github.com/iewoai/Quantitative-Investment_Learning
 
@@ -163,7 +163,9 @@ gantt
 
 [4] https://github.com/avinashbarnwal/Momentum-Strategy
 
-[5] [Quantitative Momentum](https://www.amazon.com/Quantitative-Momentum-Practitioners-Momentum-Based-Selection/dp/111923719X/ref=sr_1_1?ie=UTF8&qid=1478201274&sr=8-1&keywords=quantitative+momentum): A Practitioner's Guide to Building a Momentum-Based Stock Selection System (Wiley Finance) Hardcover – Illustrated, October 3, 2016
+[5] Clairvoyant. https://github.com/anfederico/clairvoyant
+
+[6] [Quantitative Momentum](https://www.amazon.com/Quantitative-Momentum-Practitioners-Momentum-Based-Selection/dp/111923719X/ref=sr_1_1?ie=UTF8&qid=1478201274&sr=8-1&keywords=quantitative+momentum): A Practitioner's Guide to Building a Momentum-Based Stock Selection System (Wiley Finance) Hardcover – Illustrated, October 3, 2016
 
 <!--
 
