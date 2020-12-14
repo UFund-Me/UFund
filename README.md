@@ -109,7 +109,7 @@ gantt
         计划二               :         des4, after des3, 5d
 ```
 
-- 关于 **UFund** 详细更新进度，请查阅 [这儿](./docs/change-log.md).
+- 关于 **UFund** 详细更新进度，请查阅 [这儿](./docs/Changelog.md).
 
 
 ## 💖 Sponsors and Backers
