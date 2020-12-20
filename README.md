@@ -111,6 +111,11 @@ gantt
 
 - 关于 **UFund** 详细更新进度，请查阅 [这儿](./docs/Changelog.md).
 
+## 🔔 Update Reminder
+
+[Subscribe -->](https://github.com/UFund-Me/UFund/edit/main/README.md)
+
+Business ✉️ email: yidazhang1@gmail.com
 
 ## 💖 Sponsors and Backers
 
