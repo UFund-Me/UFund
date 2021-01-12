@@ -90,7 +90,7 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 ## 📅 Result
 > <b>BLSH</b> - Buy low sell high, hold for a long time / “买低卖高，长期持有” is our goal to maintain high-yield investment.
 
-### I have been using UFund about half a year, just with ￥26500.00 principal.
+### I have been using UFund about half a year, just with ￥26,500.00 principal.
 <table>
     <tr>
       <td style="text-align: center">
@@ -123,6 +123,10 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
     </tr>
   </tbody>
 </table>
+
+<p align="right">
+* Since Jan.12 2021
+</p>
 
 ## 🍮 Community
 
