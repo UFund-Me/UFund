@@ -87,6 +87,43 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 </div>
 <br>
 
+## 📅 Result
+> <b>BLSH</b> - Buy low sell high, hold for a long time / “买低卖高，长期持有” is our goal to maintain high-yield investment.
+
+### I have been using UFund about half a year, just with ￥26500.00 principal.
+<table>
+    <tr>
+      <td style="text-align: center">
+	      investment (this year 2020)
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">
+	      yield growth curve
+      </td>
+    </tr>
+  <thead>
+    <tr>
+      <th style="text-align: left">👀 <a href="https://github.com/ChromeWei/PaperWeeklyAI">迈微论文研读</a></th>
+      <th style="text-align: left">🐒 <a href="https://github.com/ChromeWei/PaperWeeklyAI/tree/master/00_GuideBooksPDF(English%2BChinese)">AI进阶指南</a></th>
+      <th style="text-align: left">📚 <a href="https://github.com/ChromeWei/hello-algorithm/tree/master/%E6%B8%85%E6%99%B0%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A61000%E6%9C%AC">超清电子书10000本</a></th>
+      <th style="text-align: left">🐒 <a href="https://github.com/ChromeWei/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F">计算机IT必备</a></th>
+      <th style="text-align: left" colspan="2">🚀 <a href="https://github.com/ChromeWei/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87">大厂面经汇总指南</a></th>
+      <!--水平跨列的表格-->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## 🍮 Community
 
 Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/issues/1#issue-751252906" target="_blank"> COMMUNITY </a>.
