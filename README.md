@@ -93,7 +93,7 @@ Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/iss
 
 ## 📚 Code of conduct
 
-<a href="https://UFund-Me.github.io/doc/privacy.html" target="_blank">隐私协议</a>
+[CODE_OF_CONDUCT](./docs/CODE_OF_CONDUCT.md) | <a href="https://UFund-Me.github.io/doc/privacy.html" target="_blank">隐私协议</a>
 <br>
 
 ## ☕ Processing
