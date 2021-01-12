@@ -68,11 +68,11 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 
 ## 📦 Contents
 
-- [Summary](#summary)
-- [Install](#curriculum)
-- [Community](#community)
-- [Code of conduct](#code-of-conduct)
-- [Team](#team)
+- [Summary](#why-ufund-)
+- [Install](#-usage)
+- [Community](#-community)
+- [Code of conduct](#-code-of-conduct)
+- [Team](#-sponsors-and-backers)
 
 <div align="center">
     <img src="./img/comming_soon.png" width="200px">
