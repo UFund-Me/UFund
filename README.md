@@ -125,7 +125,7 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 	  <img src="./result/year_investment.png">    
       </td>
       <td style="text-align: left" colspan="1">
-	  <img src="./result/rank_95.png" >    
+	  <img src="./result/rank_95.png" width="600">    
       </td>
     </tr>
     <tr>
