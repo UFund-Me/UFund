@@ -90,6 +90,7 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 ## 📅 Result
 > <b>BLSH</b> - Buy low sell high, hold for a long time / “买低卖高，长期持有” is our goal to maintain high-yield investment.
 
+### Average yield <b>28.41%</b>, <b>82.56%</b> increase compared to 2019
 ### I have been using UFund about half a year, just with ￥26,500.00 principal.
 
 <table>
@@ -139,7 +140,7 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
       </td>
     </tr>
     <tr>
-      <td style="text-align: left">
+      <td style="text-align: left" rowspan="2">
 	  <b>CASE</b>    
       </td>
       <td style="text-align: left">
@@ -153,6 +154,11 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
       </td>
       <td style="text-align: left">
 	  <img src="./result/result_4.jpg" alt="case4" width="200">
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center" colspan="4">
+	      Average yield <b>28.41%</b>, <b>82.56%</b> increase compared to 2019
       </td>
     </tr>
   </tbody>
