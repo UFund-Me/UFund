@@ -103,7 +103,7 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 	  <img src="./result/result.png">
       </td>
       <td style="text-align: center" colspan="1">
-	  <img src="./result/principal.jpg" alt="principal" width="300">
+	  <img src="./result/principal.jpg" alt="principal" width="240">
       </td>
     </tr>
     <tr>
@@ -153,7 +153,7 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 	  <img src="./result/result_3.png" alt="case3" width="180">
       </td>
       <td style="text-align: left">
-	  <img src="./result/result_4.jpg" alt="case4" width="300">
+	  <img src="./result/result_4.jpg" alt="case4" width="240">
       </td>
     </tr>
     <tr>
