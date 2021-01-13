@@ -153,7 +153,7 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 	  <img src="./result/result_3.png" alt="case3" width="180">
       </td>
       <td style="text-align: left">
-	  <img src="./result/result_4.jpg" alt="case4" width="300">
+	  <img src="./result/result_4.jpg" alt="case4" width="200">
       </td>
     </tr>
     <tr>
