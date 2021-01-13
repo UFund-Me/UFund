@@ -103,7 +103,7 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 	  <img src="./result/result.png">
       </td>
       <td style="text-align: center" colspan="1">
-	  <img src="./result/principal.jpg" alt="principal" width="200">
+	  <img src="./result/principal.jpg" alt="principal" width="400">
       </td>
     </tr>
     <tr>
