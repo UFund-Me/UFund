@@ -91,17 +91,9 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 > <b>BLSH</b> - Buy low sell high, hold for a long time / “买低卖高，长期持有” is our goal to maintain high-yield investment.
 
 ### I have been using UFund about half a year, just with ￥26,500.00 principal.
+
 <table>
-    <tr>
-      <td style="text-align: center">
-	      investment (this year 2020)
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: center">
-	      yield growth curve
-      </td>
-    </tr>
+  <!--
   <thead>
     <tr>
       <th style="text-align: left">👀 <a href="https://github.com/ChromeWei/PaperWeeklyAI">迈微论文研读</a></th>
@@ -109,16 +101,70 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
       <th style="text-align: left">📚 <a href="https://github.com/ChromeWei/hello-algorithm/tree/master/%E6%B8%85%E6%99%B0%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A61000%E6%9C%AC">超清电子书10000本</a></th>
       <th style="text-align: left">🐒 <a href="https://github.com/ChromeWei/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F">计算机IT必备</a></th>
       <th style="text-align: left" colspan="2">🚀 <a href="https://github.com/ChromeWei/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87">大厂面经汇总指南</a></th>
-      <!--水平跨列的表格-->
+      <!--水平跨列的表格--
     </tr>
   </thead>
+  -->
   <tbody>
     <tr>
       <td style="text-align: left">
+	  UFund increase returns just with little principal
+      </td>
+      <td style="text-align: center" colspan="3">
+	  <img src="./result/result.png">
+      </td>
+      <td style="text-align: center" colspan="1">
+	  <img src="./result/principal.jpg">
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center" colspan="3">
+	      investment (this year 2020)
+      </td>
+      <td style="text-align: center" colspan="1">
+	      principal
       </td>
     </tr>
     <tr>
       <td style="text-align: left">
+	  TEST Total Investment
+      </td>
+      <td style="text-align: center" colspan="2">
+	  <img src="./result/Total_Investment.png">
+      </td>
+      <td style="text-align: left" colspan="1">
+	  <img src="./result/year_investment.png">    
+      </td>
+      <td style="text-align: left" colspan="1">
+	  <img src="./result/rank_95.png">    
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center" colspan="2">
+	  Total Investment since Jul 2020
+      </td>
+      <td style="text-align: center" colspan="1">
+	  yield growth curve (have been used UFund since Jul 2020)
+      </td>
+      <td style="text-align: center" colspan="1">
+	  Investment Rank in All Users  
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">
+	  CASE    
+      </td>
+      <td style="text-align: left">
+	  <img src="./result/result_1.png">    
+      </td>
+      <td style="text-align: left">
+	  <img src="./result/result_2.png">
+      </td>
+      <td style="text-align: left">
+	  <img src="./result/result_3.png">
+      </td>
+      <td style="text-align: left">
+	  <img src="./result/result_4.png">
       </td>
     </tr>
   </tbody>
