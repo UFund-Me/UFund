@@ -125,7 +125,7 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 	  <img src="./result/year_investment.png">    
       </td>
       <td style="text-align: left" colspan="1">
-	  <img src="./result/rank_95.png">    
+	  <img src="./result/rank_95.png" width="200">    
       </td>
     </tr>
     <tr>
@@ -144,13 +144,13 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 	  <b>CASE</b>    
       </td>
       <td style="text-align: left">
-	  <img src="./result/result_1.jpg" alt="case1" width="200">    
+	  <img src="./result/result_1.jpg" alt="case1" width="300">    
       </td>
       <td style="text-align: left">
-	  <img src="./result/result_2.jpg" alt="case2" width="200">
+	  <img src="./result/result_2.jpg" alt="case2" width="300">
       </td>
       <td style="text-align: left">
-	  <img src="./result/result_3.png" alt="case3" width="200">
+	  <img src="./result/result_3.png" alt="case3" width="180">
       </td>
       <td style="text-align: left">
 	  <img src="./result/result_4.jpg" alt="case4" width="200">
