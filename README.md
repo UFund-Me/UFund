@@ -200,9 +200,8 @@ Business ✉️ email: yidazhang1@gmail.com
 
 ## 💖 Sponsors and Backers
 
-[![](https://opencollective.com/ant-design/tiers/sponsors.svg?avatarHeight=36)](https://ufund-me.github.io/img/WeChat-sponsor.png)
-
-[![](https://opencollective.com/ant-design/tiers/backers.svg?avatarHeight=36)](https://ufund-me.github.io/img/WeChat-sponsor.png)
+<a href="https://ufund-me.github.io/img/WeChat-sponsor.png" target="_blank"><img src="https://opencollective.com/ant-design/tiers/sponsors.svg?avatarHeight=36" alt="Sponsor" width="160"></a>
+<a href="https://ufund-me.github.io/img/WeChat-sponsor.png" target="_blank"><img src="https://opencollective.com/ant-design/tiers/backers.svg?avatarHeight=36" alt="Backer" width="900"></a>
 
 <table>
 <tr>
