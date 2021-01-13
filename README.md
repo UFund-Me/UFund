@@ -107,7 +107,7 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
   -->
   <tbody>
     <tr>
-      <td style="text-align: left">
+      <td style="text-align: left" rowspan="2">
 	  UFund increase returns just with little principal
       </td>
       <td style="text-align: center" colspan="3">
@@ -126,7 +126,7 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
       </td>
     </tr>
     <tr>
-      <td style="text-align: left">
+      <td style="text-align: left" rowspan="2">
 	  TEST Total Investment
       </td>
       <td style="text-align: center" colspan="2">
@@ -155,16 +155,16 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 	  CASE    
       </td>
       <td style="text-align: left">
-	  <img src="./result/result_1.png">    
+	  <img src="./result/result_1.jpg">    
       </td>
       <td style="text-align: left">
-	  <img src="./result/result_2.png">
+	  <img src="./result/result_2.jpg">
       </td>
       <td style="text-align: left">
-	  <img src="./result/result_3.png">
+	  <img src="./result/result_3.jpg">
       </td>
       <td style="text-align: left">
-	  <img src="./result/result_4.png">
+	  <img src="./result/result_4.jpg">
       </td>
     </tr>
   </tbody>
