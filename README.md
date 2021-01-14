@@ -182,15 +182,15 @@ Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/iss
 ```mermaid
 gantt
         dateFormat  YYYY-MM-DD
-        title Adding GANTT diagram functionality to mermaid
+        title UFUnd Development Processing
         section 现有任务
-        已完成               :done,    des1, 2014-01-06,2014-01-08
-        进行中               :active,  des2, 2014-01-09, 3d
-        计划一               :         des3, after des2, 5d
+        已完成               :done,    des1, 2020-11-06,2020-12-20
+        进行中               :active,  des2, 2021-01-07, 3d
+        计划一               :         des3, after des2, 7d
         计划二               :         des4, after des3, 5d
 ```
 
-- 关于 **UFund** 详细更新进度，请查阅 [这儿](./docs/Changelog.md).
+- 关于 **UFund** 详细更新进度，请查阅 [这儿](./docs/CHANGELOG.md).
 
 ## 🔔 Update Reminder
 
