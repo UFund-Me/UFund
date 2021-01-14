@@ -170,7 +170,7 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 
 ## 🍮 Community
 
-Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/issues/1#issue-751252906" target="_blank"> COMMUNITY </a>.
+Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/issues" target="_blank"> COMMUNITY </a>.
 
 ## 📚 Code of conduct
 
