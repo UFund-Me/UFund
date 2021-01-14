@@ -184,8 +184,8 @@ gantt
         dateFormat  YYYY-MM-DD
         title UFUnd Development Processing
         section 现有任务
-        已完成               :done,    des1, 2020-11-06,2020-12-20
-        进行中               :active,  des2, 2021-01-07, 3d
+        已完成               :done,    des1, 2020-11-06,2020-12-10
+        进行中               :active,  des2, 2020-12-07, 5d
         计划一               :         des3, after des2, 7d
         计划二               :         des4, after des3, 5d
 ```
