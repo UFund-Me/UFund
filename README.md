@@ -183,11 +183,11 @@ Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/iss
 gantt
         dateFormat  YYYY-MM-DD
         title UFUnd Development Processing
-        section 现有任务
-        已完成               :done,    des1, 2020-11-06,2020-12-10
-        进行中               :active,  des2, 2020-12-07, 5d
-        计划一               :         des3, after des2, 7d
-        计划二               :         des4, after des3, 5d
+        section Current Task
+        Have Done           :done,    des1, 2020-11-06,2020-12-10
+        Doing               :active,  des2, 2020-12-07, 5d
+        Plan2               :         des3, after des2, 7d
+        Plan2               :         des4, after des3, 5d
 ```
 
 - 关于 **UFund** 详细更新进度，请查阅 [这儿](./docs/CHANGELOG.md).
