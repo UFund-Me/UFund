@@ -252,6 +252,12 @@ Business ✉️ email: yidazhang1@gmail.com
 
 [6] [Quantitative Momentum](https://www.amazon.com/Quantitative-Momentum-Practitioners-Momentum-Based-Selection/dp/111923719X/ref=sr_1_1?ie=UTF8&qid=1478201274&sr=8-1&keywords=quantitative+momentum): A Practitioner's Guide to Building a Momentum-Based Stock Selection System (Wiley Finance) Hardcover – Illustrated, October 3, 2016
 
+
+<br>
+<p align="center">Feel free to ask any questions, open a PR if you feel something can be done differently!</p>
+<h2 align="center">🌟Star this repository🌟</h2>
+<p align="center">Created by <a href="https://github.com/Charmve">Charmve</a> & <a href="https://github.com/UFund-Me">UFund-Me</a> Community belongs to <a href="https://github.com/UFond-Me">maiwei.ai</a> | Deployed on <a href="https://ufund-me.github.io/">Web</a></p>
+
 <!--
 
 ### 🍅 Summary
