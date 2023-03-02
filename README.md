@@ -82,10 +82,11 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 🍅  🍮  ⏱️  🍰   📦   🥕   💼   📚
 
 <div align="center">
-    <img src="https://gitee.com/rabt/Picture/raw/master/img/edit.png">
+    <img src="https://user-images.githubusercontent.com/29084184/222492776-22c33218-bba0-4eba-926f-8096562588b6.png">
     <br> <i>A demo of UFund</i>
 </div>
 <br>
+
 
 ## 📅 Result
 > <b>BLSH</b> - Buy low sell high, hold for a long time / “买低卖高，长期持有” is our goal to maintain high-yield investment.
